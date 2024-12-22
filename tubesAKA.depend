@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734876856 source:c:\users\donnn\onedrive\strukdat\tubesaka\flight.cpp
+	"flight.h"
+
+1734876847 c:\users\donnn\onedrive\strukdat\tubesaka\flight.h
+	<iostream>
+	<string>
+
+1734876762 source:c:\users\donnn\onedrive\strukdat\tubesaka\main.cpp
+	"flight.h"
+
